@@ -1,6 +1,6 @@
 # Github action with Python
 
-- 카일 깃헙에서 좋은 예제가 있어 실습 해보려 한다
+- 카일 깃헙(https://zzsza.github.io/development/2020/06/06/github-action/)에서 좋은 예제가 있어 실습 해보려 한다
 - (1) YES24 cron Github Action
   - YES24 IT 신간 도서에 있는 TOP 40을 가져와서, 해당 Github Issue 업로드
   - 매일 오전 9시에 업로드(한국 시간)
